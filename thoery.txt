@@ -67,7 +67,7 @@ Extension for javascript Language Syntax
 
 XML-Like code for elements and components
 
-JSX is not manadtory to write react compoenents
+JSX is not manadtory to write react components
 
 JSX makes our code simplified and elegant
 
@@ -152,7 +152,7 @@ render()
 componentDidMount 
 ---------------------
 -> Invoked immediately after a component and all its 
-   child compoenents have been rendered to the DOM   
+   child components have been rendered to the DOM   
 
 - > Place to make the Ajax Calls and load the data 
 
@@ -177,10 +177,10 @@ LifeCycle Method
 ------------------
 -> componentWillUnMount
 
-Error Handling  
+componentError Handling  
 ----------------
 When there is an error during the rendering in a life cycle method 
-or in the constructor of any child component
+or in the constructor of any child 
 
 LifeCycle Methods 
 ------------------
