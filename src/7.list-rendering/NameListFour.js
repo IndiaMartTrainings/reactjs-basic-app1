@@ -33,7 +33,7 @@ function NameListFour() {
 
     const nameList = persons.map(person => <Person key={person.id} person={person} />)
     
-  return nameList
+  return <div className="container">{nameList}</div> 
 }
 
 export default NameListFour
